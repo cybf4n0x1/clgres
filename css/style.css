@@ -138,7 +138,7 @@ h1{
 
 
 body{
-    background:url(bg.png) repeat 0 0;
+    background:url(imgs/bg.png) repeat 0 0;
     background-size: cover;
     animation: animate 28s linear infinite;
     animation-iteration-count: infinite;
